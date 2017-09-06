@@ -4,7 +4,7 @@
 +
 +Question:
 Si Skycoin est aussi bien que vous le prétendez, il est clair que je préférerais l'utiliser pour mon business plutot que les autres.
-+Mais ou puis je voir les preuves? Il y a t'il un site internet avec plus d'information ou plus de données? Le réseau est t'il déjà solide avec beaucoup de nodes?
++Mais ou puis je voir les preuves? Y a t'il un site internet avec plus d'informations ou plus de données? Le réseau est t'il déjà solide avec beaucoup de noeuds(nodes) ?
 +
 +
 +Réponse:
