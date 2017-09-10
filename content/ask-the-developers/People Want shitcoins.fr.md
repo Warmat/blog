@@ -3,7 +3,7 @@
 +Extrait d'un groupe Telegram
 +
 +Question:
-Si Skycoin est aussi bien que vous le prétendez, il est clair que je préférerais l'utiliser pour mon business plutot que les autres.
+Si Skycoin est aussi bien que vous le prétendez, il est clair que je préférerais l'utiliser pour mon business plutot qu' un autre jeton.
 +Mais ou puis je voir les preuves? Y a t'il un site internet avec plus d'informations ou plus de données? Le réseau est t'il déjà solide avec beaucoup de noeuds(nodes) ?
 +
 +
