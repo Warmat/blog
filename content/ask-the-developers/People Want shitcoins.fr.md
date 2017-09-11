@@ -1,11 +1,11 @@
 ++++
  +title = "Les gens veulent des jetons de merde"
  +tags = [
- +    "ask-the-developers",
+ +  "ask-the-developers",
  +]
  +date = "2017-09-08"
  +categories = [
- +    "ask-the-developers",
+ +  "ask-the-developers",
  +]
 +
 +Extrait d'un groupe Telegram
