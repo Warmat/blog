@@ -36,7 +36,7 @@ Oui c’est enfaite plus rapide que le TCP/IP. Les fournisseurs de service inter
 -	Toutes les encryptions sont éphémères et confidentielles
 -	Le protocole est conçu pour empêcher les inspections approfondies de paquets qui permettent d’identifier les utilisateurs du protocole (pas de ports fixes, pas de texte en clair en format télégraphique, connectivité fixe entre les nœuds pour le réseau de base, etc..)
 C’est donc comme un TOR avec une latence très faible et des micro-paiements pour la bande passante.
--	Il est plus sur et a une meilleure confidentialité que HTTPS
+-	Il est plus sûr et a une meilleure confidentialité que HTTPS
 -	Il est plus rapide que TOR et peut être mis à l’échelle mais il y a toujours des attaques possibles contre lui
 -	Le code est plus simple que celui de TOR, donc il y a moins de place pour des portes dérobées ou des vulnérabilités cachées. Il y a seulement une dépendance externe dans l’ensemble de l’implémentation.
 -	Si vous avez besoin d’une sécurité absolue contre   les attaques par canal auxiliaire de type attaques de chronométrage, vous devriez utiliser un service de mélange ou utiliser un Bitmessage par-dessus le Darknet.
@@ -44,7 +44,7 @@ C’est donc comme un TOR avec une latence très faible et des micro-paiements p
 
 ## Serveurs de routage
 Oui les Serveurs de routage sont un point faible. Pour une confidentialité maximum vous devriez utiliser votre propre serveur de routage interne.
-Cependant, si vous utiliser un serveur de routage public, vous êtes connecté après avoir fait  plusieurs bonds donc il ne peux pas vous identifier.  Cela reste tout de même plus sur d’utiliser son propre serveur de routage.
+Cependant, si vous utiliser un serveur de routage public, vous êtes connecté après avoir fait  plusieurs bonds donc il ne peux pas vous identifier.  Cela reste tout de même plus sûr d’utiliser son propre serveur de routage.
 
 ## Gestion des Micro-Paiements pour la bande passante
 La gestion des micros paiements  se fait à travers une tierce partie. Le nœud se connecte a ‘une passerelle’, fait un dépôt d’un jeton à la passerelle afin d’avoir un crédit. Le nœud peut maintenant générer  des adresses pseudonymes de 64 bit avec la passerelle. La passerelle ne connait pas l’identité du nœud connecté, elle connait uniquement le bon précédent par lequel la connexion est venue.
